@@ -8,4 +8,7 @@ const int cam = 0; //set to real pin later idk what it is rn
 const int apgthres = 40; // apogee is detected after this
 const int serialBaud = 115200; // self explainitory
 
+const char* ssid = "HorizonV2Avionics";
+const char* password = "1234";
+
 #endif // CONSTANTS_H
